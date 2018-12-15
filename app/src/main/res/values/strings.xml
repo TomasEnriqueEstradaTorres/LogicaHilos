@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LogicaHilos</string>
+
+    <string name="title">Descarga Imagen</string>
+    <string name="descarrega">Descarga!</string>
+    <string name="imagendescargada">imagenDescargada</string>
 </resources>
